@@ -21,7 +21,8 @@ Describe what tests exist, and which must pass. In general, all tests must pass.
 Describe how to build the code, and what the expected build artifacts are. This is critical, as all submissions should result in code that builds. If applicable, describe a test plan for the generated build artifact (required if the result is an executable, not required if the result is a source API).
  
 ##Contribution Workflow:
-**For a more complete workflow, view [this set-up guide](https://decibel.ni.com/content/docs/DOC-37416) and [this workflow guide](https://decibel.ni.com/content/docs/DOC-37417).**
+*For a more complete workflow, view [this set-up guide](https://decibel.ni.com/content/docs/DOC-37416) and [this workflow guide](https://decibel.ni.com/content/docs/DOC-37417).*
+
 1. Fork this repository into your account.
 2. Create a branch for your change.
 3. Make changes, periodically pulling and merging any updates from the central repository.
